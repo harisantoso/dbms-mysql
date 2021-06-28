@@ -1,0 +1,1 @@
+DELETE FROM satuan WHERE satuanid = 4;
