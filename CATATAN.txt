@@ -12,5 +12,3 @@ https://github.com/harisantoso/dbms-mysql.git
 
 dimulai 1-5-2021
 selesai 1-6-2021
-
-
