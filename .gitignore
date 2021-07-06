@@ -1,0 +1,9 @@
+# Ignore folder 
+# co: log/
+
+# Ignore extension
+Ignore file extension .backup
+# co: *.backup
+
+# Ignore ignore.txt
+CATATAN.txt
