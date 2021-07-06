@@ -1,5 +1,7 @@
 BELAJAR DATABASE BAHASA INDONESIA
 
+konek to github
+
 menggunakan
 phpMyAdmin
 Version information: 4.9.2
